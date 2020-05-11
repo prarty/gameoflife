@@ -1,0 +1,15 @@
+.idea/
+out/
+
+#Gradle
+gradle/
+gradlew
+gradlew.bat
+build/
+.gradle/
+
+src/.DS_Store
+src/main/.DS_Store
+.DS_Store
+src/test/.DS_Store
+
